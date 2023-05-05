@@ -2,8 +2,7 @@
 
 ## Description du projet
 
-Le projet consiste en la création d'une base de données relationnelle pour une ecole fictive.
-La base de données contient plusieurs tables pour stocker les informations sur l'ecole et les étudiants.
+Ce projet a été réalisé dans le cadre de mon école pour la découverte de MySQL et de son environnement, ainsi que pour la première utilisation de ce dernier. La base de données contient plusieurs tables pour stocker les informations sur l'école et les étudiants.
 
 ## Outils utilisés
 
